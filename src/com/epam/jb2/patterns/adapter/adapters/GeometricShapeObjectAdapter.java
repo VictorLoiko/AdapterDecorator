@@ -1,4 +1,4 @@
-package com.epam.jb2.patterns.adapter.adapter;
+package com.epam.jb2.patterns.adapter.adapters;
 
 import com.epam.jb2.patterns.adapter.entity.FigureShape;
 import com.epam.jb2.patterns.adapter.entity.GeometricShape;

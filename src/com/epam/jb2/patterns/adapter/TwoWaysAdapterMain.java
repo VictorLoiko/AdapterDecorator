@@ -1,6 +1,6 @@
-package com.epam.jb2.patterns;
+package com.epam.jb2.patterns.adapter;
 
-import com.epam.jb2.patterns.adapter.adapter.TwoWaysAdapter;
+import com.epam.jb2.patterns.adapter.adapters.TwoWaysAdapter;
 import com.epam.jb2.patterns.adapter.constants.ShapeType;
 import com.epam.jb2.patterns.adapter.instance.Drawing;
 
